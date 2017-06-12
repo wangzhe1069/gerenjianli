@@ -1,5 +1,5 @@
 jQuery(window).bind("load", function() {
-    jQuery("div#slider1").codaSlider()
+     //jQuery("div#slider1").codaSlider()
     // jQuery("div#slider2").codaSlider()
     // etc, etc. Beware of cross-linking difficulties if using multiple sliders on one page.
     new WOW().init()
